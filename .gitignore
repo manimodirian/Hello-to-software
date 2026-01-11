@@ -1,2 +1,30 @@
 video/
 *.mp4
+# Ignore image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webp
+
+# Ignore audio files
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.aac
+*.m4a
+
+# (optional) ignore video too
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# (optional) ignore whole media folders
+media/
+audio/
+images/
+photo/
+video/
